@@ -5,15 +5,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next/env": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "16.2.6",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
   },
-  "devDependencies": {
-    "@tailwindcss/postcss": "latest",
-    "autoprefixer": "latest",
-    "postcss": "latest",
-    "tailwindcss": "latest"
-  }
+  "devDependencies": {}
 }
